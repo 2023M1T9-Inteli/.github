@@ -2,15 +2,15 @@
 
 ## 🔍 O problema:
 
-...
+Tornar os conteúdos dos treinamentos internos da cia mais acessíveis e engajadores.
 
 ## 🎯 O objetivo:
 
-...
+Criação de uma solução gameficada que torne o processo de treinamento mais fluido e engajador para os participantes.
 
 ## 🧩 O público-alvo:
 
-...
+Funcionários e clientes da cia.
 
 ## 💻 Desenvolvimento de jogo digital:
 
